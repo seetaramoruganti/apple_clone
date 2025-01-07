@@ -10,3 +10,11 @@ Currently, two official plugins are available:
 APPLE CLONE
 
 - G-SAP, Three.js, React, tailwindcss
+
+
+
+
+
+
+screenshots/hero-videocarousel.gif
+
